@@ -1018,7 +1018,7 @@ function renderPackages() {
         <div class="mt-8 p-6 rounded-2xl bg-white border border-amber-200 max-w-2xl mx-auto text-center shadow-sm">
           <h3 class="font-serif text-lg font-bold text-stone-900 mb-1">Planning a multi-city or destination wedding?</h3>
           <p class="text-xs text-stone-600 mb-3">We customize bespoke itineraries with drone permits, same-day video edits, and family albums.</p>
-          <a href="https://wa.me/${photographer.whatsapp}?text=Hi%20Arjun,%20I'd%20like%20a%20custom%20wedding%20quote!" 
+          <a href="https://wa.me/${photographer.whatsapp}?text=Hi%20Arjun,%20I%20would%20like%20a%20custom%20wedding%20quote!" 
              target="_blank" class="text-xs font-bold text-amber-800 hover:text-amber-900 hover:underline inline-flex items-center space-x-1">
             <span>Request Custom Itinerary on WhatsApp</span>
             <svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
